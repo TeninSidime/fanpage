@@ -17,3 +17,14 @@ a {
     width: 30px;
     margin: 15px;
 }
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
+.Yara{
+    
+    width:20%;
+    height: 20%;
+}
+    
+
